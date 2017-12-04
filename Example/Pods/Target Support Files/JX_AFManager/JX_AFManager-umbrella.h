@@ -12,6 +12,7 @@
 
 #import "PTHeader.h"
 #import "PTHTTPManager.h"
+#import "PTRequest.h"
 #import "PTResponse.h"
 
 FOUNDATION_EXPORT double JX_AFManagerVersionNumber;
