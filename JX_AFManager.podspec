@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JX_AFManager'
   s.version          = '0.1'
-  s.summary          = 'A short description of JX_AFManager.'
+  s.summary          = 'AFNetWorking的进一步封装'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+ 对AFNetWorking的进一步封装,宏定义快速解析请求数据
                        DESC
 
   s.homepage         = 'https://github.com/jiajianxing/JX_AFManager'

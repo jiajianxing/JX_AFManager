@@ -1,8 +1,8 @@
 {
   "name": "JX_AFManager",
-  "version": "0.1.0",
-  "summary": "A short description of JX_AFManager.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.1",
+  "summary": "AFNetWorking的进一步封装",
+  "description": "对AFNetWorking的进一步封装,宏定义快速解析请求数据",
   "homepage": "https://github.com/jiajianxing/JX_AFManager",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/jiajianxing/JX_AFManager.git",
-    "tag": "0.1.0"
+    "tag": "0.1"
   },
   "platforms": {
     "ios": "8.0"
