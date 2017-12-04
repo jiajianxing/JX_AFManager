@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JX_AFManager_Example' do
+  pod 'JX_AFManager', :path => '../'
+
+  target 'JX_AFManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
